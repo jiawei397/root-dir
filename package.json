@@ -1,19 +1,19 @@
 {
-  "name": "getRootDir",
+  "name": "root-dir",
   "author": "jw",
   "version": "0.0.1",
-  "description": "get the dir by find package.json",
+  "description": "get the root directory by find the package.json ",
   "keywords": [
     "fs",
     "package",
-    "getRootDir",
+    "root-dir",
     "root"
   ],
   "main": "index.js",
   "scripts": {
     "test": ""
   },
-  "repository": "git@github.com:jiawei397/getRootDir.git",
+  "repository": "git@github.com:jiawei397/root-dir.git",
   "license": "MIT",
   "readmeFilename": "README.md"
 }
