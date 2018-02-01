@@ -1,4 +1,4 @@
-# root-dir
+# root-directory
 
 
 > get the root directory by find the package.json 
@@ -6,7 +6,7 @@
 ## Install
 
 ```
-$ npm install --save root-dir
+$ npm install --save root-directory
 ```
 
 
@@ -24,7 +24,7 @@ $ npm install --save root-dir
 
 ```js
 // b.js
-const getRootDir = require('root-dir');
+const getRootDir = require('root-directory');
 
 (async () => {
     const rootDir = await getRootDir();

@@ -1,5 +1,5 @@
 {
-  "name": "root-dir",
+  "name": "wk-root-directory",
   "author": "jw",
   "version": "0.0.1",
   "main": "index.js",
@@ -7,18 +7,18 @@
   "keywords": [
     "fs",
     "package",
-    "root-dir",
+    "root-directory",
     "root"
   ],
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/jiawei397/root-dir.git"
+    "url": "git+ssh://git@github.com/jiawei397/root-directory.git"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jiawei397/root-dir/issues"
+    "url": "https://github.com/jiawei397/root-directory/issues"
   },
-  "homepage": "https://github.com/jiawei397/root-dir#readme",
+  "homepage": "https://github.com/jiawei397/root-directory#readme",
   "directories": {
     "example": "example"
   },
