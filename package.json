@@ -2,6 +2,7 @@
   "name": "root-dir",
   "author": "jw",
   "version": "0.0.1",
+  "main": "index.js",
   "description": "get the root directory by find the package.json ",
   "keywords": [
     "fs",
@@ -9,11 +10,10 @@
     "root-dir",
     "root"
   ],
-  "main": "index.js",
-  "scripts": {
-    "test": ""
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:jiawei397/root-dir.git"
   },
-  "repository": "git@github.com:jiawei397/root-dir.git",
   "license": "MIT",
   "readmeFilename": "README.md"
 }
