@@ -12,8 +12,17 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git@github.com:jiawei397/root-dir.git"
+    "url": "git+ssh://git@github.com/jiawei397/root-dir.git"
   },
   "license": "MIT",
-  "readmeFilename": "README.md"
+  "bugs": {
+    "url": "https://github.com/jiawei397/root-dir/issues"
+  },
+  "homepage": "https://github.com/jiawei397/root-dir#readme",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
 }
